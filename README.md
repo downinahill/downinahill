@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a fast learner, eager to learn anything about technology and I've grown a lot in this field over the past year. I'm an artist who's passionate about a number of things. I want to leave a lasting positive impact on the world. I'm curious, tenacious, and willing to do whatever it takes to get the job done. I've been more focused on front end, but I want to know everything there is to know about software engineering.
+
 <!--
 **downinahill/downinahill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
