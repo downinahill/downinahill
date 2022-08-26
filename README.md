@@ -3,17 +3,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Hill
 ==================================================================================================================================
 
-![Metrics](https://metrics.lecoq.io/downinahill?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&config.timezone=America%2FNew_York)
 
-
-I've been learning to code on and off since 2016. I graduated a boot camp at General Assembly last year and have been practicing and learning ever since. I love technology, learning and building things.
+I'm a creative individual and a problem solver. I graduated a software engineering boot camp at General Assembly last year and have been practicing and learning ever since. I love technology, learning and creating things.
 
 *   🌍  I'm based in Clifton, VA
 *   🖥️  See my portfolio at [My Portfolio](http://https://elaborate-babka-b56842.netlify.app/)
 *   ✉️  You can contact me at [brian.hill.0023@gmail.com](mailto:brian.hill.0023@gmail.com)
-*   🧠  I'm learning React mostly.
+*   🧠  I'm learning React.js, Next.js, Tailwind, Python.
 *   🤝  I'm open to collaborating on anything.
-*   ⚡  I'm a self-taught artist.
+*   ⚡  I'm a self-taught artist, musician and developer.
+
+![Metrics](https://metrics.lecoq.io/downinahill?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&config.timezone=America%2FNew_York)
 
  Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
