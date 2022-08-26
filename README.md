@@ -3,6 +3,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Hill
 ==================================================================================================================================
 
+![Metrics](https://metrics.lecoq.io/downinahill?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&config.timezone=America%2FNew_York)
+
+
 I've been learning to code on and off since 2016. I graduated a boot camp at General Assembly last year and have been practicing and learning ever since. I love technology, learning and building things.
 
 *   🌍  I'm based in Clifton, VA
