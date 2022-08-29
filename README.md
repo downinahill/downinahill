@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a creative individual and a problem solver. I graduated a software engineering boot camp at General Assembly last year and have been practicing and learning ever since. I love technology, learning and creating things.
 
 *   🌍  I'm based in Clifton, VA
-*   🖥️  See my portfolio at [My Portfolio](http://https://elaborate-babka-b56842.netlify.app/)
+*   🖥️  See my portfolio at [My Portfolio](https://www.brianhilldevportfolio.com/)
 *   ✉️  You can contact me at [brian.hill.0023@gmail.com](mailto:brian.hill.0023@gmail.com)
 *   🧠  I'm learning React.js, Next.js, Tailwind, Python.
 *   🤝  I'm open to collaborating on anything.
