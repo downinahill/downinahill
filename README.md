@@ -64,6 +64,9 @@ https://metrics.lecoq.io/insights/downinahill
 
 <img src="https://github-readme-stats.vercel.app/api?username=downinahill_icons=true"/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
