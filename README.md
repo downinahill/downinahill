@@ -65,6 +65,20 @@ https://metrics.lecoq.io/insights/downinahill
 <img src="https://github-readme-stats.vercel.app/api?username=downinahill_icons=true"/>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 07 August 2022 - To: 05 September 2022
+
+Total Time: 23 hrs 33 mins
+
+JavaScript   18 hrs 58 mins  >>>>>>>>>>>>>>>>>>>>-----   80.53 %
+HTML         2 hrs 9 mins    >>-----------------------   09.14 %
+JSON         57 mins         >------------------------   04.07 %
+Python       37 mins         >------------------------   02.66 %
+Bash         30 mins         >------------------------   02.19 %
+TOML         9 mins          -------------------------   00.71 %
+```
+
 <!--END_SECTION:waka-->
 
 Here are some ideas to get you started:
