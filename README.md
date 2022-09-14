@@ -67,16 +67,16 @@ https://metrics.lecoq.io/insights/downinahill
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 August 2022 - To: 10 September 2022
+From: 07 August 2022 - To: 13 September 2022
 
-Total Time: 37 hrs 9 mins
+Total Time: 39 hrs 17 mins
 
-JavaScript   26 hrs 54 mins  >>>>>>>>>>>>>>>>>>-------   72.43 %
-SCSS         5 hrs 4 mins    >>>----------------------   13.67 %
-HTML         2 hrs 15 mins   >>-----------------------   06.06 %
-JSON         1 hr 11 mins    >------------------------   03.20 %
-Python       37 mins         -------------------------   01.69 %
-Bash         32 mins         -------------------------   01.46 %
+JavaScript   28 hrs 4 mins   >>>>>>>>>>>>>>>>>>-------   71.46 %
+SCSS         5 hrs 59 mins   >>>>---------------------   15.24 %
+HTML         2 hrs 15 mins   >------------------------   05.73 %
+JSON         1 hr 14 mins    >------------------------   03.18 %
+Python       37 mins         -------------------------   01.60 %
+Bash         32 mins         -------------------------   01.38 %
 ```
 
 <!--END_SECTION:waka-->
