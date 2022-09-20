@@ -11,7 +11,7 @@ I'm a creative individual and a problem solver. I graduated a software engineeri
 *   🌍  I'm based in Clifton, VA
 *   🖥️  See my portfolio at [My Portfolio](https://www.brianhilldevportfolio.com/)
 *   ✉️  You can contact me at [brian.hill.0023@gmail.com](mailto:brian.hill.0023@gmail.com)
-*   🧠  I'm learning React.js, Next.js, Tailwind, Material-UI, SASS, APIs, Bootstrap, Python, Javascript, Heroku, Netlify, Firebase, Solidity, Web 3.0.
+*   🧠  I'm learning React.js, Next.js, Tailwind, Material-UI, SASS, APIs, Bootstrap, Python, Javascript, Heroku, Netlify, Firebase, Solidity, Web 3.0., mySQL.
 *   🤝  I'm open to collaborating on anything.
 *   ⚡  I'm a self-taught artist, musician and developer.
 
@@ -49,6 +49,7 @@ I'm a creative individual and a problem solver. I graduated a software engineeri
                                 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
                                 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
                                 <a href="https://thegraph.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/the-graph-colored.svg" width="36" height="36" alt="The Graph" /></a>
+                                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="mySQL" /></a>
                     </p>
                     
        
