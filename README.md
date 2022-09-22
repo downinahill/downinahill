@@ -11,7 +11,7 @@ I'm a creative individual and a problem solver. I graduated a software engineeri
 *   🌍  I'm based in Clifton, VA
 *   🖥️  See my portfolio at [My Portfolio](https://brianhilldevportfolio.netlify.app/)
 *   ✉️  You can contact me at [brian.hill.0023@gmail.com](mailto:brian.hill.0023@gmail.com)
-*   🧠  I'm learning React.js, Next.js, Tailwind, Material-UI, SASS, APIs, Bootstrap, Python, Javascript, Heroku, Netlify, Firebase, Solidity, Web 3.0., mySQL.
+*   🧠  I'm learning React.js, Next.js, Tailwind, Material-UI, SASS, APIs, Bootstrap, Python, Javascript, Heroku, Netlify, Firebase, Solidity, Web 3.0., mySQL, react-native.
 *   🤝  I'm open to collaborating on anything.
 *   ⚡  I'm a self-taught artist, musician and developer.
 
