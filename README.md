@@ -14,15 +14,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p align="center">
 <br>
-<!--  <a target="_blank" href="https://www.youtube.com/channel/UCJgt2GFgJo6InoXg-k5QJ4w"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a> -->
-<a target="_blank" href="https://www.facebook.com/BrendanFriz/"><img src="https://img.shields.io/badge/facebook-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a target="_blank" href="https://www.linkedin.com/in/brendan-frisby/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a target="_blank" href="mailto:bfrisbyh92@gmail.com?subject=Hello%20!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<!-- 
+<a target="_blank" href="https://www.linkedin.com/in/brian-p-hill/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a target="_blank" href="mailto:brian.hill.0023@gmail.com?subject=Hello%20!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
 I'm a creative individual and a problem solver. I graduated a software engineering boot camp at General Assembly last year and have been practicing and learning ever since. I love technology, learning and creating things.
 
 *   🌍  I'm based in Clifton, VA
-*   🖥️  See my portfolio at [My Portfolio](https://brianhilldevportfolio.netlify.app/)
+*   🖥️  See my portfolio at [My Portfolio](https://brianhilldevportfolio.netlify.app/)(https://brianhilldevportfolio.com
 *   ✉️  You can contact me at [brian.hill.0023@gmail.com](mailto:brian.hill.0023@gmail.com)
 *   🧠  I'm learning React.js, Next.js, Tailwind, Material-UI, SASS, APIs, Bootstrap, Python, Javascript, Heroku, Netlify, Firebase, Solidity, Web 3.0., mySQL, react-native.
 *   🤝  I'm open to collaborating on anything.
