@@ -5,12 +5,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Hill
 ==================================================================================================================================
 
-[![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/bfrisbyh92/?tab=follow)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/brendan-frisby/)](https://www.linkedin.com/in/brendan-frisby/)
-<a target="_blank" href="https://drive.google.com/file/d/1tGRtUnD5Cd8Eyc1O7GocF-ripotWDyl6/view"><img src="https://img.shields.io/badge/General%20Assembly%20Final-SWEngineeringImmersive-red" alt="eJPTv2" /></a>&nbsp;
-<a target="_blank" href="https://drive.google.com/file/d/1xfH4aDrg1fMMUk_qz3bPJdK0Z24m6dwq/view?usp=sharing"><img src="https://img.shields.io/badge/GA-Certification-blueviolet" alt="eJPTv2" /></a>&nbsp;
-<a target="_blank" href="https://my.ine.com/certificate/f36c424b-bebd-4484-a309-75cd9b35253d"><img src="https://img.shields.io/badge/eJPTv2%20Certification-eJPTv2-brightgreen" alt="eJPTv2" /></a>&nbsp;
-<a target="_blank" href="https://tryhackme.com/p/bfrisbyh92"><img src="https://img.shields.io/badge/TryHackMe-Profile-ff69b4" alt="LinkedIn" /></a>&nbsp;
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/brian-p-hill/)]
 
 <p align="center">
 <br>
