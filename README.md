@@ -101,3 +101,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He/Him/His
 - ⚡ Fun fact: ...
 -->
+ 
+ ![tryhackme stats](https://raw.githubusercontent.com/Nameless23/Nameless23/master/assets/thm_propic.png)
+
