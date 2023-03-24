@@ -12,6 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <!-- 
 <a target="_blank" href="https://www.linkedin.com/in/brian-p-hill/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a target="_blank" href="mailto:brian.hill.0023@gmail.com?subject=Hello%20!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a target="_blank" href="https://tryhackme.com/p/bfrisbyh92"><img src="https://img.shields.io/badge/TryHackMe-Profile-ff69b4"/></a>&nbsp;
 
 I'm a creative individual and a problem solver. I graduated a software engineering boot camp at General Assembly last year and have been practicing and learning ever since. I love technology, learning and creating things.
 
@@ -22,10 +23,23 @@ I'm a creative individual and a problem solver. I graduated a software engineeri
 *   🤝  I'm open to collaborating on anything.
 *   ⚡  I'm a self-taught artist, musician and developer.
 
-![Metrics](https://metrics.lecoq.io/downinahill?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&config.timezone=America%2FNew_York)
+![Metrics](https://metrics.lecoq.io/downinahill?template=classic&isocalendar=1&languages=1&activity=1&achievements=1&introduction=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction.title=true&config.timezone=America%2FNew_York)
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=downinahill&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brian's Github Stats">
+</p>
+
+<br>
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=downinahill&show_icons=true&hide_border=true&theme=radical">
+</p>
+</div>
+
+<h2 align="center">Top 15% on TryHackMe</h2>
 
 
- Skills<p align="left">
+ Skills<p align="center">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
