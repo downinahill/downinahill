@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with getting a job in tech.
 - 💬 Ask me about my art.
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/brian-p-hill/)]
- <a href="brian.hill.0023@gmail.com">
+ <a href="brian.hill.0023@gmail.com"></a>
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Astronomers estimate there exist roughly 10,000 stars for each grain of sand on Earth. 
 -->
