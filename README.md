@@ -94,7 +94,7 @@ Bash         1 hr 45 mins    -------------------------   01.37 %
 
 - 🔭 I’m currently working on learning ethical hacking, pen testing, networks, React, Python.
 - 🌱 I’m currently learning the above things.
-- 👯 I’m looking to collaborate on anything.
+- 👯 I’m looking to collaborate on anything and everything.
 - 🤔 I’m looking for help with getting a job in tech.
 - 💬 Ask me about my art.
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/brian-p-hill/)]
