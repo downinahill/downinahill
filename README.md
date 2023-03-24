@@ -90,7 +90,7 @@ Bash         1 hr 45 mins    -------------------------   01.37 %
 
 <!--END_SECTION:waka-->
 
-=======================================================================================================
+=================================================================================================
 
 - 🔭 I’m currently working on learning ethical hacking, pen testing, networks, React, Python.
 - 🌱 I’m currently learning the above things.
