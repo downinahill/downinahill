@@ -117,5 +117,5 @@ Bash         1 hr 45 mins    -------------------------   01.37 %
 - ⚡ Fun fact: Astronomers estimate there exist roughly 10,000 stars for each grain of sand on Earth. 
 -->
  
- ![tryhackme stats](https://raw.githubusercontent.com/Nameless23/Nameless23/master/assets/thm_propic.png)
+ ![tryhackme stats](https://raw.githubusercontent.com/<Nameless23>/<Nameless23>/master/assets/thm_propic.png)
 
