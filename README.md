@@ -90,7 +90,7 @@ Bash         1 hr 45 mins    -------------------------   01.37 %
 
 <!--END_SECTION:waka-->
 
-==================================================================================================================================
+=======================================================================================================
 
 - 🔭 I’m currently working on learning ethical hacking, pen testing, networks, React, Python.
 - 🌱 I’m currently learning the above things.
@@ -98,7 +98,7 @@ Bash         1 hr 45 mins    -------------------------   01.37 %
 - 🤔 I’m looking for help with getting a job in tech.
 - 💬 Ask me about my art.
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/brian-p-hill/)]
- <a href="brian.hill.0023@gmail.com"></a>
+ Email: brian.hill.0023@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Astronomers estimate there exist roughly 10,000 stars for each grain of sand on Earth. 
 -->
