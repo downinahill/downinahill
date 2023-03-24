@@ -92,14 +92,15 @@ Bash         1 hr 45 mins    -------------------------   01.37 %
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...He/Him/His
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on learning ethical hacking, pen testing, networks, React, Python.
+- 🌱 I’m currently learning the above things.
+- 👯 I’m looking to collaborate on anything.
+- 🤔 I’m looking for help with getting a job in tech.
+- 💬 Ask me about my art.
+- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/brian-p-hill/)]
+ <a href="brian.hill.0023@gmail.com">
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: Astronomers estimate there exist roughly 10,000 stars for each grain of sand on Earth. 
 -->
  
  ![tryhackme stats](https://raw.githubusercontent.com/Nameless23/Nameless23/master/assets/thm_propic.png)
