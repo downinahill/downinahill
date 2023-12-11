@@ -93,7 +93,7 @@ https://metrics.lecoq.io/insights/downinahill
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2022 - To: 07 December 2023
+From: 07 August 2022 - To: 09 December 2023
 
 Total Time: 171 hrs 6 mins
 
